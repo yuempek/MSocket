@@ -51,6 +51,6 @@ public void onData(MMessage message) {
 
 @Override
 public void onStopListen() {
-    // logic on comminication stop
+    // logic of comminication stop
 }
 ```
